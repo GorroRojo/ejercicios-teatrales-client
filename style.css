@@ -1,0 +1,20 @@
+.title {
+    text-align: center;
+}
+
+.ejercicio-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.loading {
+    margin: 0 auto;
+
+    text-align: center;
+}
+
+.ejercicios {
+    max-width: 500px;
+    margin: 0 auto;
+
+}
