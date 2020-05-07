@@ -2,6 +2,7 @@ const form = document.querySelector('.ejercicio-form');
 const loadingElement = document.querySelector('.loading');
 const ejerciciosElement = document.querySelector('.ejercicios');
 const API_URL = 'https://ejercicios-teatrales.herokuapp.com/ejercicios'
+console.log(window.location.host);
 
 
 listAllEjercicios();
